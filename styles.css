@@ -1,1 +1,18 @@
-/* Write your CSS here! */
+/* element selector */
+body { 
+    display: block; 
+    margin: 8px;
+}
+
+/* class selector */
+.green-paragraph {
+    color: green;
+}
+
+/* id selector */
+#mainHeading {
+    color: red;
+}
+#locationNames {
+    color: red;
+}
