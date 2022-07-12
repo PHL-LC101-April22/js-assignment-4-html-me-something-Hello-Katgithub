@@ -7,7 +7,12 @@ body {
 /* Give a paragraph on your page the id of testP and a class name of funParagraph. Use the class selector in styles.css to give it a color value of green.
  */
 /* class selector */
+
 .funParagraphElement {
+    color: green;
+}
+
+#testP {
     color: green;
 }
 
